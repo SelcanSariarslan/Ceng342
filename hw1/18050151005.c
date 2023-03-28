@@ -1,3 +1,4 @@
+//18050151005_Selcan_Sariarslan
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
